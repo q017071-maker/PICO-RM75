@@ -1,0 +1,13 @@
+{
+  "repository": "https://github.com/ShuaiWang-ai/RM75-PICO.git",
+  "commit": "0a9d5689bb27e7f35fd907a25aa5447321936365",
+  "files": {
+    "rm75_target_preview.py": "3b78096bcbe5d7cf0ab0e47c10351d5ab37a503c315850f626e827b0897f32e3",
+    "rm75_live_control.py": "c4b5dd06da4a88dc49240935ada6eb267768e7b81dacf10554ae0bb4d52d4bc1",
+    "rm75_log_replay.py": "1711d0cde9436c21096e7a64dc8983ffe88a231c5e87a345189a6e549174ef77",
+    "rm75_preview_core.py": "000465eab31014a622237f338d82a1425a647d4e0c65570a351f360bf993e2f8",
+    "rm75_state_broadcast.py": "7e545ce393b55c3fc6c40156b2b79ec203540fb15969163b31311534a1b0cb51"
+  },
+  "local_modifications_to_upstream_core": [],
+  "updated_at": "2026-10-28T17:45:24"
+}
